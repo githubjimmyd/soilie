@@ -1,0 +1,32 @@
+#######################################################################
+#
+# settings.txt
+# ------------
+#
+# Description: Program configurations
+#
+# Author:   Jonathan Gagne
+#           Institute of Cognitive Science
+#           Carleton University
+#           jgagne2@connect.carleton.ca
+#
+# For:      Undergraduate Thesis
+# Supervisor: Dr. Jim Davies
+#
+#######################################################################
+
+
+RUNABLE = True                  # True: program runs as normal.		False: used for testing classes
+
+DISTRIBUTION_DEMO_MODE = True	# True: demonstrates the distribution modifier system.	False: runs as normal
+
+TRAINING_MODE = True			# True: learning mode 				False: runs as normal
+TRAINING_FILE = "S-Image2.txt"		# File to learn from
+
+VERBOSE = False                 # run in verbose mode
+
+pyg_vars_SIZE_X = 1200			# horizontal size of display
+pyg_vars_SIZE_Y = 680 			# vertical size of display
+pyg_vars_FONT_SIZE = 18 		# font size
+
+DISTRIBUTION_DEMO_PATH = "dist_demo//"

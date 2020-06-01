@@ -1,0 +1,17 @@
+# example 1
+name= "crow" 
+size= 50    
+ 
+name= "large crow"  
+size= 79  
+
+# example 2
+name= "large bat" 
+size= 12  
+ 
+name= "forest"  
+size= 510  
+
+name= "[large bat] above forest" 
+lexical_category= "preposition" 
+distance= 20

@@ -1,0 +1,15 @@
+# List of Adverbs
+# ----------------------------
+
+# List Partly Obtained from Wikipedia
+# June 13th, 2017
+# one word
+quickly
+slowly
+# two words
+very quickly
+extremely quickly
+very slowly
+extremely slowly
+
+

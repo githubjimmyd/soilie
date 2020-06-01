@@ -1,0 +1,7 @@
+# example 3
+name= "bird" 
+size= 60
+
+# example 4
+name= "tree" 
+size= 100

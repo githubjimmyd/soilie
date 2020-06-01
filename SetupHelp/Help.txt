@@ -1,0 +1,56 @@
+Steps to setup old SOILE-2D project
+-------------------------------------
+1.Install python2.7
+2.Check whether the system variable is added as PYTHON_HOME = "C:\Python27" and following is appended to PATH variable.
+"%PYTHON_HOME%\;%PYTHON_HOME%\Scripts"
+3.Open command prompt and execute following:
+pip install pygame;
+pip install nltk;
+pip install numpy;
+pip install requests;
+
+4.Then on python console execute:
+nltk.download()
+which opens a GUI window(NLTK Downloader)from where you can download some extra packages.
+pick wordnet and wordnet_ic From Corpora TAB and click download.Packages would get downloaded to "C:\Users\<username>\AppData\Roaming\nltk_data"
+
+5.Edit some files to execute the project.
+
+Comment out the #from visuobeta import VisuoBeta 
+in pyu.py file.
+
+Edit the syn.lemma_names to syn.lemma_names() in sim2_NotSavingExemplarInput.py file.
+
+6.Now execute pyu.py file (F5-Run).
+
+Refer following responses to execute it:
+
+Use Oracle or Coherencer [O/C]?
+C
+Please pick degree of coherence:
+weak, moderate, or strict [W/M/S]?
+m
+Display or save image [D/S]?
+d
+Use background image [Y/N]?
+n
+Use cut and fill [Y/N]?
+n
+Please insert single word query.
+pumpkin
+['pumpkin', 'smile', 'face', 'rot', 'smash']
+Is this selection good?
+yes
+http://www.image-net.org/downloads/bbox/bbox/n07735510
+pumpkin
+http://www.image-net.org/downloads/bbox/bbox/n07735510
+pumpkin
+No bounding boxes available for smile
+No bounding boxes available for face
+No bounding boxes available for rot
+No bounding boxes available for smash
+
+<<Image will render by rendere>>
+
+7.FileData is the folder which has program files and SaveData has files which has just the data structure followed by visuo 
+

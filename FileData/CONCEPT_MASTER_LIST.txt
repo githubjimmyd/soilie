@@ -1,0 +1,21 @@
+# Contains a list of all the concepts.
+# Format ->  name:location
+# if a location is surrounded by < > then it is a hard-cored concept.
+
+ABOVE:ABOVE.txt
+ANGLE:ANGLE.txt
+CUBE:CUBE.txt
+DISTANCE:DISTANCE.txt
+LENGTH:LENGTH.txt
+LINE:LINE.txt
+ORIENTATION:ORIENTATION.txt
+POINT:POINT.txt
+RECTANGLE:RECTANGLE.TXT
+SQUARE:SQUARE.txt
+
+# Innate concepts
+DISTANCE:<DISTANCE>
+ANGLE:<ANGLE>
+#POINT:<POINT>
+#--------------------
+

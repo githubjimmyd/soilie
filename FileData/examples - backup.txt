@@ -1,0 +1,98 @@
+# names  -> list of relevant names 
+# size   -> real value representing the size of it
+# colour -> (hue, saturation, brightness)
+# *** consider using CIELAB for the colour -> (L,a,b)
+
+name="eagle"
+secondary_names = ["large bird"]
+size=50
+
+name="robin"
+secondary_names = ["medium bird"]
+size=20
+
+name="sparrow"
+secondary_names = ["small bird"]
+size=10
+
+name="eagle"
+secondary_names = ["large bird"]
+size=60
+
+name="raven"
+secondary_names = ["large bird"]
+size=40
+
+name="eagle"
+secondary_names = ["large bird"]
+size=55
+
+name="robin"
+secondary_names = ["medium bird"]
+size=15
+
+name="sparrow"
+secondary_names = ["small bird"]
+size=8
+
+name="apple"
+secondary_names = ["fruit"]
+size=11
+
+name="square"
+secondary_names = []
+size=10
+
+name="square"
+secondary_names = []
+size=15
+
+name="square"
+secondary_names = []
+size=23
+
+name="rectangle"
+secondary_names = []
+size=14
+
+name="rectangle"
+secondary_names = []
+size=20
+
+name="large rectangle"
+secondary_names = []
+size=43
+
+name="circle"
+secondary_names = []
+size=8
+
+name="large circle"
+secondary_names = []
+size=33
+
+name="small triangle"
+secondary_names = []
+size=4
+
+name="firefly"
+size=3
+
+name="red tree"
+secondary_names = []
+size=200
+
+name="house"
+secondary_names = []
+size=1000
+
+name="eagle above tree"
+secondary_names = []
+lexical_category="preposition"
+size=20
+
+name="firefly above tree"
+secondary_names = []
+lexical_category="preposition"
+size=10
+

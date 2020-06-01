@@ -1,0 +1,147 @@
+name="crow"
+secondary_names = ["long crow"]
+length=30
+size=25
+
+name="crow"
+secondary_names = []
+length=21
+size=24
+
+name="crow"
+secondary_names = []
+length=20
+size=25
+
+name="large crow"
+secondary_names = []
+length=30
+size=35
+
+name="building"
+secondary_names = []
+height=200
+size=250
+
+name="small building"
+secondary_names = []
+height=140
+size=170
+
+name="little building"
+secondary_names = []
+length=90
+size=120
+
+name="large building"
+secondary_names = []
+height=400
+size=450
+
+name="raven"
+secondary_names = []
+length=40
+size=45
+brightness=60
+
+name="raven"
+secondary_names = []
+length=30
+size=35
+brightness=80
+
+name="raven"
+secondary_names = []
+length=30
+size=35
+brightness=50
+
+name="small raven"
+secondary_names = []
+length=20
+size=25
+brightness=150
+
+name="city"
+secondary_names = []
+height=800
+size=850
+
+name="house"
+secondary_names = []
+height=70
+size=80
+
+name="bat"
+secondary_names = ["dark bat"]
+length=8
+size=10
+brightness=30
+
+name="bat"
+secondary_names = ["bright bat"]
+length=8
+size=10
+brightness=200
+
+name="bat"
+secondary_names = ["bright bat"]
+length=8
+size=10
+brightness=150
+
+name="small bat"
+secondary_names = []
+length=5
+size=6
+brightness=55
+
+
+name="small bat"
+secondary_names = []
+length=8
+size=10
+brightness=60
+
+name="tree"
+secondary_names = []
+length=70
+size=60
+
+name="forest"
+secondary_names = []
+length=700
+size=600
+
+name="plane"
+secondary_names = []
+length=60
+size=50
+
+name="ground"
+secondary_names = []
+size=100
+
+name="earth"
+secondary_names = []
+size=1000
+
+name="bat above forest"
+secondary_names = []
+lexical_category="preposition"
+size=50
+
+name="plane above woods"
+secondary_names = []
+lexical_category="preposition"
+size=200
+
+name="plane above tree"
+secondary_names = []
+lexical_category="preposition"
+size=210
+
+name="raven beside tree"
+secondary_names = []
+lexical_category="preposition"
+size=80

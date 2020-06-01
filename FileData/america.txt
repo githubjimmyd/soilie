@@ -1,0 +1,25 @@
+# example 1
+name= "chair" 
+size = 10
+lexical_category = "noun"
+
+name= "cheese"
+size = 10
+
+name = "[chair] above cheese"
+lexical_category= "preposition" 
+distance= 20
+angle_c= 20	
+
+# example 2
+name= "chair" 
+size = 10
+lexical_category = "noun"
+
+name= "cheese"
+size = 10
+
+name = "[chair] above cheese"
+lexical_category= "preposition" 
+distance= 20
+angle_c= 20
